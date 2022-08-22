@@ -29,6 +29,8 @@ ejemplo
 
 <img alt="runProject" src="https://www.versionpb.com/wp-content/uploads/2017/12/Eclipse-Run-as-Java-Application.png" width="600px">
 
-El servicio estara listo para usarse en su maquina local la ruta  http://localhost:7080/ 
+El servicio estara listo para usarse en su maquina local la ruta  http://localhost:7082/
+
+**NOTA:** Este servicio es el insumo para generar una imagen en la prueba de kubernate y terraform [prueba] (https://github.com/emejia1/sisa)
 
 
